@@ -2,6 +2,6 @@
 
 <p>
     <small>
-        Atelier de <a href="http://bernardchhun.com">Bernard Chhun</a>
+        a.k.a. Le guide de survie à la transition d'un langage de programmation à un autre !
     </small>
 </p>
