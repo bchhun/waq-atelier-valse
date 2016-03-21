@@ -1,4 +1,4 @@
-# Infrastructure d'une application web simple en Python
+# Architecture d'une application web simple en Python
 
 
 ...

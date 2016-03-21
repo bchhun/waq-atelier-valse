@@ -1,4 +1,4 @@
-# Architecture d'une application web simple en PHP
+# Architecture d'une application PHP simple
 
 
-<img src="img/php-app-architecture.png" />
+<img src="img/php-app-architecture.png"/>

@@ -4,7 +4,10 @@ Note:
 Le confort, c'est bien, mais ça ne fait pas en sorte qu'on évolue et qu'on grandit.
 
 
-&ldquo;We are all shaped by the tools we train ourselves to use&rdquo; -&nbsp;Edsger W.Dijkstra
+<blockquote cite="https://www.cs.utexas.edu/users/EWD/transcriptions/OtherDocs/Haskell.html">
+&ldquo;We are all shaped by the tools we train ourselves to use&rdquo; 
+</blockquote>
+-&nbsp;Edsger W.Dijkstra
 
 Note:
 Le langage humain dans lequel nous baignons structure notre manière de penser.

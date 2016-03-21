@@ -36,6 +36,12 @@ def une_fonction(param):
 # affiche "une grande fonction !"
 une_fonction("grande")
 
+# importer un module
+import requests # pour faire des requêtes HTTP
+
+# utiliser un module
+r = requests.get("http://www.google.ca")
+
 </code></pre>
 
 
