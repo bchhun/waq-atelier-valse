@@ -2,7 +2,7 @@
 
 <p>
     <small>
-        a.k.a. Le guide de survie à la transition d'un langage de programmation à un autre !
+        a.k.a. Le guide de survie à la transition de PHP à Python !
     </small>
 </p>
 
