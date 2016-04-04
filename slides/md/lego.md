@@ -38,11 +38,11 @@
 
 ### 2A. Ouvrez Sublime Text
 
-1. Créez un fichier nommé *mon-projet.py* dans le répertoire courant;
+1. Créez un fichier nommé *mon_projet.py* dans le répertoire courant;
 2. Tapez le code se trouvant dans la slide suivante:
 
 
-### 2B. `mon-projet.py`
+### 2B. `mon_projet.py`
 
 Pas de copier-coller; prenez le temps de tapez chacun des caractères
 
@@ -71,7 +71,7 @@ if __name__ == "__main__":
 
 ### 2C. Retournez dans votre terminal et roulez l'application
 
-    (venv) $ python mon-projet.py
+    (venv) $ python mon_projet.py
 
 
 ### 2D. Ouvrez un navigateur dans la machine virtuelle à l'adresse suivante: http://localhost:5000
@@ -92,7 +92,7 @@ from flask import render_template
 
 @app.route('/hello/')
 @app.route('/hello/<name>')
-def hello(name=None):
+def hello2(name=None):
     return render_template('hello.html', name=name)
 ```
 
