@@ -101,14 +101,15 @@ module.exports = function(grunt) {
 		},
 
 		zip: {
-			'reveal-js-presentation.zip': [
+			'waq16-valse-des-serpents-et-des-elephants.zip': [
 				'index.html',
 				'css/**',
 				'js/**',
 				'lib/**',
 				'images/**',
 				'plugin/**',
-				'**.md'
+				'md/**',
+                'img/**'
 			]
 		},
 
