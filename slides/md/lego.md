@@ -44,7 +44,7 @@
 
 ### 2B. `mon_projet.py`
 
-Pas de copier-coller; prenez le temps de tapez chacun des caractères
+Pas de copier-coller; prenez le temps d'entrer chacun des caractères
 
 ```python
 # coding: utf-8
@@ -143,7 +143,7 @@ def hello2(name=None):
             database = db
 
 
-## 4B. Exemples d'interaction avec la base de données
+## 4B. Exemples d'interactions avec la base de données
 
     # coding: utf-8
     

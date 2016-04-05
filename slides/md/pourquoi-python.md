@@ -57,7 +57,7 @@ Note:
 ...
 
 
-## Environnement virtuelle 
+## Environnement virtuel
 
 Pour nous permettre de rouler plusieurs applications python ayant:
 
